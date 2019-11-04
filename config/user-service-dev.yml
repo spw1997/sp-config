@@ -5,6 +5,7 @@ sp:
 spring:
   application:
     name: userservice
+    
 server:  port: 8101
   
 eureka:
